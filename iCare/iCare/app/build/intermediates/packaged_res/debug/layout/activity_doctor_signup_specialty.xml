@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D8E9F0"
+    tools:context=".Authentication.Doctor_Signup_Specialty">
+
+    <LinearLayout
+        android:layout_width="422dp"
+        android:layout_height="730dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="left"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/signup_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/poppins_medium"
+            android:text="Select your specialty"
+            android:textColor="#232321"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+
+        <RadioGroup
+            android:id="@+id/identity_radiogroup"
+            android:layout_width="400dp"
+            android:layout_height="400dp"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/cardiologist_radio"
+                android:layout_width="160dp"
+                android:layout_height="170dp"
+                android:layout_marginRight="40dp"
+                android:text="Cardiologist"
+                android:textAlignment="center"
+                android:background="@drawable/custom_radio_selector"
+                android:button="@color/white"
+                android:drawableTop="@drawable/cardio"
+                android:textColor="@drawable/custom_radio_text"
+                android:drawablePadding="10dp"
+                android:paddingTop="15dp"/>
+
+            <RadioButton
+                android:id="@+id/pediatrician_radio"
+                android:layout_width="160dp"
+                android:layout_height="170dp"
+                android:text="Pediatrician"
+                android:textAlignment="center"
+                android:background="@drawable/custom_radio_selector"
+                android:button="@color/white"
+                android:drawableTop="@drawable/pedia"
+                android:textColor="@drawable/custom_radio_text"
+                android:drawablePadding="10dp"
+                android:paddingTop="15dp"/>
+
+            <RadioButton
+                android:id="@+id/dietician_radio"
+                android:text="Dietician"
+                android:textAlignment="center"
+                android:background="@drawable/custom_radio_selector"
+                android:button="@color/white"
+                android:drawableTop="@drawable/dietician"
+                android:textColor="@drawable/custom_radio_text"
+                android:drawablePadding="10dp"
+                android:paddingTop="15dp"
+                android:layout_marginTop="200dp"
+                android:layout_marginLeft="-360dp"
+                android:layout_width="160dp"
+                android:layout_height="170dp"  />
+
+
+            <RadioButton
+                android:id="@+id/neurologist_radio"
+                android:layout_width="160dp"
+                android:layout_height="170dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="210dp"
+                android:background="@drawable/custom_radio_selector"
+                android:button="@color/white"
+                android:drawableTop="@drawable/neuro1"
+                android:drawablePadding="10dp"
+                android:paddingTop="15dp"
+                android:text="Neurologist"
+                android:textAlignment="center"
+                android:textColor="@drawable/custom_radio_text" />
+
+
+        </RadioGroup>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/confirm_btn"
+            android:layout_width="350dp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:text="CONFIRM"
+            android:backgroundTint="#16C0D0"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_18ssp"
+            android:textStyle="bold"
+            app:cornerRadius="@dimen/_8sdp"/>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

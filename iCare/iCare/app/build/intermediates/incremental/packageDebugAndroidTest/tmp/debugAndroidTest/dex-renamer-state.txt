@@ -1,0 +1,13 @@
+#Sun May 28 13:08:54 SGT 2023
+path.3=6/classes.dex
+path.2=14/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\Acer\\Desktop\\ICARE\\iCare (3)\\iCare\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\6\\classes.dex
+base.2=C\:\\Users\\Acer\\Desktop\\ICARE\\iCare (3)\\iCare\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\14\\classes.dex
+base.1=C\:\\Users\\Acer\\Desktop\\ICARE\\iCare (3)\\iCare\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.0=C\:\\Users\\Acer\\Desktop\\ICARE\\iCare (3)\\iCare\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

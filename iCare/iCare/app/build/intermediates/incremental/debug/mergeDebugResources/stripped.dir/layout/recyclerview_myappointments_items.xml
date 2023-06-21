@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/my_appointment_cd"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    android:padding="10dp"
+    app:cardBackgroundColor="#1B9CB3"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/gradient1"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingVertical="15dp">
+
+        <LinearLayout
+            android:layout_width="240dp"
+            android:layout_height="92dp"
+            android:layout_marginLeft="-30dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/fullname_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:gravity="center"
+                android:text="Dr. Jennie Kim"
+                android:textColor="#E7E8DB"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/identity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="3dp"
+                android:gravity="center"
+                android:text="Dietician Doctor"
+                android:textColor="#E7E8DB"
+                android:textSize="20sp"
+                android:textStyle="normal" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+                <TextView
+                    android:id="@+id/appointment_time"
+                    android:layout_width="134dp"
+                    android:layout_height="22dp"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="8dp"
+                    android:text="9:00am - 5:00pm"
+                    android:textColor="#E7E8DB"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/appointment_date"
+                    android:layout_width="100dp"
+                    android:layout_height="22dp"
+                    android:layout_marginStart="150dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginTop="10dp"
+                    android:text="mm/dd/yy"
+                    android:textColor="#E7E8DB"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

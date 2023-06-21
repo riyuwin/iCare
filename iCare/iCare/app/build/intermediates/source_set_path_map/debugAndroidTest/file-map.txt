@@ -1,0 +1,9 @@
+com.example.icare.test.app-annotation-experimental-1.3.0-0 C:\Users\Acer\.gradle\caches\transforms-3\44fb1c653c2c68d50a0ce37637582265\transformed\annotation-experimental-1.3.0\res
+com.example.icare.test.app-core-1.5.0-1 C:\Users\Acer\.gradle\caches\transforms-3\800b34c658c8a00ea3eb79f8b7d5b298\transformed\core-1.5.0\res
+com.example.icare.test.app-androidTest-2 C:\Users\Acer\Desktop\ICARE\iCare (3)\iCare\app\build\generated\res\resValues\androidTest\debug
+com.example.icare.test.app-androidTest-3 C:\Users\Acer\Desktop\ICARE\iCare (3)\iCare\app\build\generated\res\rs\androidTest\debug
+com.example.icare.test.app-mergeDebugAndroidTestResources-4 C:\Users\Acer\Desktop\ICARE\iCare (3)\iCare\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.icare.test.app-mergeDebugAndroidTestResources-5 C:\Users\Acer\Desktop\ICARE\iCare (3)\iCare\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.icare.test.app-merged_res-6 C:\Users\Acer\Desktop\ICARE\iCare (3)\iCare\app\build\intermediates\merged_res\debugAndroidTest
+com.example.icare.test.app-androidTest-7 C:\Users\Acer\Desktop\ICARE\iCare (3)\iCare\app\src\androidTest\res
+com.example.icare.test.app-androidTestDebug-8 C:\Users\Acer\Desktop\ICARE\iCare (3)\iCare\app\src\androidTestDebug\res

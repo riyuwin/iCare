@@ -1,0 +1,654 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_content_top.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_content_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_custom_radio_text.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\custom_radio_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_custom_radio_selector.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\custom_radio_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_lisa.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\lisa.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_calendar_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\calendar_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_landing_page.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "com.example.icare.app-merged_res-44:/layout_recyclerview_myappointments_items.xml.flat",
+        "source": "com.example.icare.app-main-46:/layout/recyclerview_myappointments_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_logout.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_gabriel.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\gabriel.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_intropt2.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\intropt2.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_user_icon.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_doctor12.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\doctor12.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_jisoo.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\jisoo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_search_icon_container.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\search_icon_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_neurologist.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_neurologist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_recyclerview_doctor_appointment_item.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\recyclerview_doctor_appointment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_neuro1.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\neuro1.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_custom_radio_normal.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\custom_radio_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_doctor9.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\doctor9.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_inter_semibold.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\inter_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_patient_appointment4.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_patient_appointment_step2.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment_step2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_gradient1.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\gradient1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_basic.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_inter_light.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\inter_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor_icon_.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor_icon_.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_item_container_user.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_rosie.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\rosie.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_doctor_signup_specialty.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_signup_specialty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_jennie_details_dietician.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\jennie_details_dietician.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_actor.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\actor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_pedia.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\pedia.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_stephen.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\stephen.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor_image.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_intropt4.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\intropt4.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor_vector_appoint.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor_vector_appoint.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_doctor.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_patient_appointment2.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_top_bg.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\top_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_aboutus.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_settings_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\settings_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_search_container.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\search_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_sign_up2.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_up2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_recyclerview_myappointments_items.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\recyclerview_myappointments_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_menu_container.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\menu_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_chat_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\chat_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_intropt1.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\intropt1.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_doctor10.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\doctor10.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor1.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor1.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_dietician.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\dietician.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_doctor7.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\doctor7.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_health_category.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\health_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_baseline_chat_24.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\baseline_chat_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_setting_appointment.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_setting_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_doctor_appointment.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_jennie.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\jennie.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_sign_in_chat.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_in_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_patient_icon_.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\patient_icon_.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_group.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor4.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor4.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_bgcontent.jpg.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\bgcontent.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor5.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor5.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_searchbutton.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\searchbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_poppins_thin.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\poppins_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_main_chat.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_main_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_bai_jamjuree_extralight.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\bai_jamjuree_extralight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_edittext_container.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\edittext_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_xenia.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\xenia.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_clock.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_searchicon.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\searchicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ellipse_bg.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ellipse_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_profile_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\profile_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_paulo.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\paulo.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_item_container_received_message.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\item_container_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor6.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor6.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_doctor_set_appointment.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_set_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_image.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor3.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor3.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_sent_message.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_received_message.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_patient_findings.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_findings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_intropt3.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\intropt3.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_pediatrician.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_pediatrician.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_wyndel.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\wyndel.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_chat_input.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_chat_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_notification_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\notification_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_doctor_dets.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_dets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_doctor_list_appointments.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_list_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_patient_appointment.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_users.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_doctor_findings.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_findings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_input.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_inter_thin.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\inter_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_patient_appointment3.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_add_btn.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\add_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_janjan.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\janjan.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_doctor8.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\doctor8.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_doctor2.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\doctor2.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_custom_radio_selected.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\custom_radio_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_doctor11.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\doctor11.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_sean.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\sean.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_arsenio.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\arsenio.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_input_style.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\input_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_item_container_sent_message.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\item_container_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-pngs-39:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_dietician.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_dietician.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_arvin.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\arvin.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_poppins_medium.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\poppins_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_newt.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\newt.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_doctor_signup.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\font_inter.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\font\\inter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_baseline_calendar_month_24.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_recycler_appointment_item.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\recycler_appointment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_cardio.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\cardio.png"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\layout_activity_cardiologist.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_cardiologist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable_background_content_bottom.xml.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable\\background_content_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-merged_res-44:\\drawable-v24_christian.png.flat",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\drawable-v24\\christian.png"
+    }
+]

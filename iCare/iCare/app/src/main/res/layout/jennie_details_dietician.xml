@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgcontent"
+    tools:context=".Fragment.Dietician">
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@color/teal_700"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="165dp"
+        android:layout_height="177dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/jennie"
+        tools:layout_editor_absoluteY="43dp" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="12dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/view"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/view"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView17">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+
+                android:layout_marginEnd="76dp"
+                android:layout_marginBottom="412dp"
+                android:fontFamily="@font/poppins_medium"
+                android:text="Dr. Jennie Kim"
+                android:textColor="#000"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="121dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="104dp"
+                android:layout_marginBottom="381dp"
+                android:fontFamily="@font/poppins_medium"
+                android:text="Dietician Doctor"
+                android:textColor="#000"
+                android:textSize="15dp" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="26dp"
+                android:layout_height="21dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="153dp"
+                android:layout_marginBottom="346dp"
+                app:srcCompat="@drawable/clock"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="6dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="134dp"
+                android:layout_height="22dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="344dp"
+                android:text="9:00am - 5:00pm"
+                android:textColor="#000"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteY="6dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="28dp"
+                android:layout_marginBottom="312dp"
+                android:fontFamily="@font/poppins_medium"
+                android:text="About Doctor"
+                android:textColor="#000"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="270dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="50dp"
+                android:layout_marginBottom="86dp"
+                android:text="Lorem ipsum was conceived as filler text, formatted in a certain way to enable the presentation of graphic elements in documents, without the need for formal copy. Using Lorem Ipsum allows designers to put together layouts and the form of the content before the content has been created, giving the design and production process more freedom."
+                android:textColor="#000"
+                android:textSize="17dp" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="279dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="41dp"
+                android:layout_marginEnd="43dp"
+                android:layout_marginBottom="21dp"
+                android:backgroundTint="#FF7A00"
+                android:text="Book Now" />
+
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

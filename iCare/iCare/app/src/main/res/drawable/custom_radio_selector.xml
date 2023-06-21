@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="#F6F6F6" />
+    <item android:drawable="@drawable/custom_radio_selected" android:state_checked="true"/>
+    <item android:drawable="@drawable/custom_radio_normal" android:state_checked="false"/>
+</selector>

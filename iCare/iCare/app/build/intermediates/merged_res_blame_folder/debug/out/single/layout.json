@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_doctor_appointment.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\item_container_sent_message.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\item_container_sent_message.xml"
+    },
+    {
+        "merged": "com.example.icare.app-mergeDebugResources-43:/layout/recyclerview_myappointments_items.xml",
+        "source": "com.example.icare.app-main-46:/layout/recyclerview_myappointments_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\recycler_appointment_item.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\recycler_appointment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\recyclerview_doctor_appointment_item.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\recyclerview_doctor_appointment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_users.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_doctor_set_appointment.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_set_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_sign_in_chat.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_in_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_main_chat.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_main_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_cardiologist.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_cardiologist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_aboutus.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_landing_page.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_patient_appointment_step2.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment_step2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_doctor_dets.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_dets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_patient_findings.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_findings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_patient_appointment2.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_setting_appointment.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_setting_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\jennie_details_dietician.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\jennie_details_dietician.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_doctor_signup.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_patient_appointment.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_patient_appointment4.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_sign_up2.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_up2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\recyclerview_myappointments_items.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\recyclerview_myappointments_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_logout.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_patient_appointment3.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_patient_appointment3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\item_container_received_message.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\item_container_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_neurologist.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_neurologist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_pediatrician.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_pediatrician.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_notification.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\item_container_user.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_doctor_list_appointments.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_list_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_dietician.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_dietician.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\fragment_doctor.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\fragment_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_doctor_signup_specialty.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_signup_specialty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_doctor_findings.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_doctor_findings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-mergeDebugResources-43:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Acer\\.gradle\\daemon\\7.5\\com.example.icare.app-main-46:\\layout\\activity_chat.xml"
+    }
+]

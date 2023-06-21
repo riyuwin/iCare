@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D8E9F0"
+    tools:context=".Authentication.Sign_up">
+
+    <LinearLayout
+        android:layout_width="422dp"
+        android:layout_height="730dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:gravity="left"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/signup_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/poppins_medium"
+            android:text="Select your identity:"
+            android:textColor="#000000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RadioGroup
+            android:id="@+id/identity_radiogroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="150dp"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:background="@drawable/custom_radio_selector"
+                android:id="@+id/doctor_radio"
+                android:button="@color/white"
+                android:drawableTop="@drawable/doctor_icon_"
+                android:text="Doctor"
+                android:layout_marginRight="40dp"
+                android:textAlignment="center"
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:textColor="@drawable/custom_radio_text"/>
+
+            <RadioButton
+                android:background="@drawable/custom_radio_selector"
+                android:id="@+id/patient_radio"
+                android:button="@color/white"
+                android:drawableTop="@drawable/patient_icon_"
+                android:textAlignment="center"
+                android:layout_width="150dp"
+                android:layout_height="140dp"
+                android:text="Patient"
+                android:textColor="@drawable/custom_radio_text"  />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/identity_next"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_height="53dp"
+            android:layout_marginTop="150dp"
+            android:backgroundTint="#16C0D0"
+            android:text="Confirm"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/password_edittext" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
